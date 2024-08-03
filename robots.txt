@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oregrat.github.io/sitemap.html.gz
+Sitemap: https://oregrat.github.io/app/sitemap.html.gz
+Sitemap: https://oregrat.github.io/assets/sitemap.html.gz
+Sitemap: https://oregrat.github.io/css/sitemap.html.gz
+Sitemap: https://oregrat.github.io/includes/sitemap.html.gz
+Sitemap: https://oregrat.github.io/item/sitemap.html.gz
+Sitemap: https://oregrat.github.io/src/sitemap.html.gz
